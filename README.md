@@ -151,7 +151,7 @@
 <br/>
 
 <!-- ==================== CONTACT ==================== -->
-<details>
+<details open>
   <summary><b>📫 Let's Connect</b></summary><br/>
   <p>I am open to professional connections, technical collaborations, and innovative projects:</p>
   <ul>
