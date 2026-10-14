@@ -13,7 +13,7 @@
         👋 Hi, I'm Diego Tarcisio
       </h1>
       <p style="margin-top: 0; margin-bottom: 6px; font-size: 1.05em;">
-        <b>Electrical Engineering undergraduate at UFOP</b> | <b>Co-founder & Technical Lead at <a href="https://github.com/bitlabufop">@BitLab</a></b>
+        <b>Electrical Engineering undergraduate at UFOP</b> | <b>Co-founder & Project Lead at <a href="https://github.com/bitlabufop">@BitLab</a></b>
       </p>
       <!-- Dynamic typing SVG -->
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -42,7 +42,7 @@
     Electrical Engineering undergraduate at <b>Federal University of Ouro Preto (UFOP - ICEA Campus)</b>, with a strong focus on <b>Embedded Systems</b>, <b>Industrial Automation (PLCs)</b>, <b>Internet of Things (IoT)</b>, and <b>rapid prototyping through 3D printing</b>.
   </p>
   <p align="justify">
-    I am a <b>co-founder of BitLab</b>, a university extension project focused on technology access, educational robotics, and sustainability through electronic upcycling. I also have previous experience in IT and infrastructure support, combining data analysis skills using Power BI and advanced Excel with hardware and firmware development.
+    I am also a <b>co-founder of BitLab</b>, a university extension project focused on technology access, educational robotics, and sustainability through electronic upcycling. I also have previous experience in IT and infrastructure support, combining  eletrical engineering and data analysis skills using softwares like AutoCad, SolidWorks, Proteus, VSCode with hardware and firmware development.
   </p>
 </details>
 
