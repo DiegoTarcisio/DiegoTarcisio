@@ -2,11 +2,9 @@
 <table align="center" width="100%">
   <tr>
     <!-- Left column: GitHub profile picture -->
-    <td align="center" valign="middle" width="165px">
-      <a href="https://github.com/DiegoTarcisio">
-        <img src="https://github.com/DiegoTarcisio.png" width="135px" alt="Diego Tarcisio" style="border-radius: 50%;" />
-      </a>
-    </td>
+    <td align="center" valign="middle" width="35%" style="border: none;">
+        <img src="./assets/foto-diego.jpg" alt="Diego Tarcisio - Mountain Biking" width="230px" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+      </td>
     <!-- Right column: Professional introduction -->
     <td valign="middle">
       <h1 style="margin-bottom: 4px;">
