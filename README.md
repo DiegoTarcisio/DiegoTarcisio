@@ -60,7 +60,7 @@
     <tr>
       <!-- Projeto 1: BitLab -->
       <td width="50%" valign="top">
-        <b>🌱 <a href="https://github.com/bitlabufop/BitLab">BitLab — UFOP</a></b> (Co-fundador)<br/>
+        <b>⚡🔬 <a href="https://github.com/bitlabufop/BitLab">BitLab — UFOP</a></b> (Co-fundador)<br/>
         <sub>Iniciativa de extensão universitária voltada para robótica educacional, oficinas práticas com escolas públicas, manufatura 3D e upcycling de sucata eletroeletrônica.</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/Status-Ativo-238636?style=flat-square"/>
@@ -176,6 +176,6 @@
 
 <br/>
 
-<p align="center">
-  Desenvolvido com 💚 por <b>Diego Tarcisio</b>.
+<p align="justify">
+<b>Diego Tarcisio</b>.
 </p>
