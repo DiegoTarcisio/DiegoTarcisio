@@ -7,7 +7,6 @@
         <img src="https://github.com/DiegoTarcisio.png" width="135px" alt="Diego Tarcisio" style="border-radius: 50%;" />
       </a>
     </td>
-
     <!-- Coluna da Direita: Apresentação Profissional -->
     <td valign="middle">
       <h1 style="margin-bottom: 4px;">
@@ -16,13 +15,11 @@
       <p style="margin-top: 0; margin-bottom: 6px; font-size: 1.05em;">
         <b>Graduando em Engenharia Elétrica na UFOP</b> | <b>Co-fundador & Líder Técnico no <a href="https://github.com/bitlabufop">@BitLab</a></b>
       </p>
-
       <!-- Typing SVG dinâmico -->
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Engenharia+El%C3%A9trica+%7C+UFOP+ICEA;Sistemas+Embarcados%2C+IoT+%26+Arduino%2FESP;Automa%C3%A7%C3%A3o+Industrial%2C+CLP+%26+CODESYS;Prototipagem+e+Modelagem+3D+(SolidWorks%2FAutoCAD)&font=Fira%20Code&center=false&width=530&height=35&color=2EA043&vCenter=true&pause=800&size=16" alt="Typing SVG" />
       </a>
       <br/>
-
       <!-- Badges de Contato e Localização -->
       <a href="https://linkedin.com/in/diego-tarcisio">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,7 +63,6 @@
         <img src="https://img.shields.io/badge/Status-Ativo-238636?style=flat-square"/>
         <img src="https://img.shields.io/badge/UFOP-ICEA-800000?style=flat-square"/>
       </td>
-
       <!-- Projeto 2: Garra Robótica -->
       <td width="50%" valign="top">
         <b>🦾 <a href="https://github.com/DiegoTarcisio/Garra-robotica">Garra Robótica Articulada</a></b><br/>
@@ -85,7 +81,6 @@
         <img src="https://img.shields.io/badge/Conceito-Energia%20Limpa-F7DF1E?style=flat-square&logoColor=black"/>
         <img src="https://img.shields.io/badge/Simula%C3%A7%C3%A3o-Proteus-004D73?style=flat-square"/>
       </td>
-
       <!-- Projeto 4: IoT & Automação -->
       <td width="50%" valign="top">
         <b>📡 <a href="https://github.com/phvictorr/humidity-reader-with-arduino/tree/diego-fotoresistor">Monitoramento IoT & Refrigeração</a></b><br/>
@@ -176,6 +171,8 @@
 
 <br/>
 
-<p align="justify">
-<b>Diego Tarcisio</b>.
+<p align="center">
+
+  
+<b>Diego Tarcisio Rabelo Macedo</b>.
 </p>
