@@ -1,10 +1,10 @@
 <!-- ==================== INTEGRATED HEADER ==================== -->
 <table align="center" width="100%">
   <tr>
-    <!-- Left column: GitHub profile picture -->
+    <!-- Left column: Profile picture -->
     <td align="center" valign="middle" width="35%" style="border: none;">
-        <img src="./assets/foto-diego.jpg" alt="Diego Tarcisio - Mountain Biking" width="230px" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
-      </td>
+      <img src="https://raw.githubusercontent.com/DiegoTarcisio/DiegoTarcisio/main/assets/Foto-DiegoT.jpeg" alt="Diego Tarcisio - Mountain Biking" width="230px" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+    </td>
     <!-- Right column: Professional introduction -->
     <td valign="middle">
       <h1 style="margin-bottom: 4px;">
@@ -30,8 +30,8 @@
     </td>
   </tr>
 </table>
-
 <br/>
+
 
 <!-- ==================== ABOUT ME ==================== -->
 <details open>
